@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Devops
 - 💬 Ask me about ... Anythinng
 - 📫 How to reach me: ...omarsaggou@gmail.com
-- 😄 Pronouns: ...He/Him 
 - ⚡ Fun fact: ...
 -->
