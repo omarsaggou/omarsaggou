@@ -1,42 +1,72 @@
-<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Saggou Omar Achref Eddine </h1> </div>
+<div align="center"><h1> Hi, i am <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="32px"/> Omar Saggou </h1> </div>
 
 # About Me
-Hi, i am hi SAGGOU OMAR ACHREF EDDINE
+👋 Hi, I’m SAGGOU Omar Achref Eddine
 
-About Me
+🔭 Currently working on
 
-🔭 I’m currently working on new project 🌱 I’m currently learning Flutter 👯 I’m looking to collaborate on fullstack programmers 💬 Ask me about Anything 📫 How to reach me: omarsaggou@gmail.com
+Enterprise-grade projects around SAP Business One, including WMS, production, delivery, and inventory solutions, with strong integration via SDK, Service Layer, and custom APIs.
+
+🌱 Currently learning
+
+Flutter for cross-platform mobile development, while expanding my skills in modern frontend stacks (React, TypeScript, Capacitor).
+
+🧠 What I work with
+
+Backend: C#, RESTful APIs, Clean Architecture, SAP B1 SDK (DI API & Service Layer)
+
+Frontend & Mobile: Android (Java), React + TypeScript, Capacitor, Flutter
+
+ERP & Databases: SAP Business One, SQL (HANA & SQL Server)
+
+Domains: WMS, Production, Inventory, Delivery, Batch & Serial Management
+
+👯 Looking to collaborate on
+
+Full-stack and enterprise projects, especially ERP-integrated systems, mobile business apps, and industrial solutions.
+
+💬 Ask me about
+
+SAP Business One development, WMS workflows, mobile–ERP integration, backend architecture, or migrating legacy systems to modern stacks.
+
+📫 How to reach me
+
+📧 omarsaggou@gmail.com
 
 
 
 # Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?logo=crystal&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge)
 ![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white&style=for-the-badge)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?logo=Electron&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge)
 ![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=for-the-badge)
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge)
 ![Next JS ](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white&style=for-the-badge)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?logo=strapi&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white&style=for-the-badge)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
 
 # GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=omarsaggou&hide_border=false&include_all_commits=false&count_private=false)
